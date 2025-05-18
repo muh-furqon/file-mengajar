@@ -1,0 +1,65 @@
+# Roadmap Belajar Dasar Pemrograman dengan Python
+# Untuk Pemula (4–7 Jam Belajar)
+# Fokus: Logika & Dasar Pemrograman, Tidak Mengarah ke Bidang Tertentu
+
+01_hello_world.py
+- Belajar perintah print()
+- Memahami struktur baris kode pertama
+
+02_variables_and_math.py
+- Variabel: angka, teks (string), dan operasi matematika dasar
+- Operasi: +, -, *, /, %
+
+03_input_and_output.py
+- Mengambil input dari pengguna dengan input()
+- Menggabungkan input dan variabel
+
+04_if_else.py
+- Percabangan logika: if, else, elif
+- Operator perbandingan: >, <, ==, !=
+
+05_conditions_practice.py
+- Latihan: cek umur (boleh/tdk), lulus/tidak lulus berdasarkan nilai
+
+06_while_loop.py
+- Perulangan menggunakan while
+- Counter, berhenti saat kondisi tercapai
+
+07_for_loop_and_range.py
+- Perulangan dengan for dan range()
+- Cetak angka 1–10, cetak bilangan genap, dll.
+
+08_lists_basics.py
+- List: buat, akses item, tambahkan, hapus item
+- Indexing & len()
+
+09_list_loop_practice.py
+- Looping list: cetak semua item, cari item tertentu
+- Hitung rata-rata nilai dalam list
+
+10_functions.py
+- Fungsi: membuat dan memanggil fungsi
+- Parameter dan nilai return
+
+11_functions_practice.py
+- Latihan: fungsi penjumlahan, cek genap/ganjil
+
+12_basic_logic_mini_project.py
+- Mini Project: Kalkulator sederhana / Rata-rata nilai / Sistem nilai
+
+# Tambahan (Bonus jika ada waktu lebih)
+
+13_nested_conditions.py
+- Percabangan bersarang: if di dalam if
+
+14_nested_loops.py
+- Loop bersarang: tabel perkalian, pola segitiga
+
+15_text_menu.py
+- Simulasi menu pilihan: tampilkan menu, pilih aksi, ulangi
+
+# Tujuan Akhir:
+- Memahami cara kerja kode secara berurutan
+- Mengerti konsep input, variabel, logika, perulangan, dan fungsi
+- Bisa membaca & menulis potongan kode kecil
+- Tidak diarahkan ke bidang spesifik (hanya paham konsep pemrograman)
