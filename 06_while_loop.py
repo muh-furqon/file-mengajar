@@ -10,7 +10,7 @@
 print("PERNYATAAN WHILE")
 angka = int(input("Masukkan angka (0 untuh berhenti): "))
 
-while angka != 0:
+while angka != 0: # Tanda != berarti tidak sama dengan
     if angka % 2 == 0:
         print(f"{angka} adalah angka genap")
     else:
